@@ -1,0 +1,4 @@
+pikepdf
+PyMuPDF
+Pillow
+pyinstaller
